@@ -1,0 +1,10 @@
+{
+    "name": "mohammadhammade/api-response",
+    "description": "A Laravel Package To Customize Json Response In Laravel",
+    "autoload": {
+        "psr-4": {
+            "Mohammadhammade\\ApiResponse\\": "src/"
+        }
+    },
+    "require": {}
+}
